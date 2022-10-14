@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DataAcces.DataSixdegreesit
+﻿namespace DataAcces.DataSixdegreesit
 {
     public partial class Usuario
     {

@@ -1,10 +1,7 @@
 ﻿using DataAcces.DataSixdegreesit;
 using Entities.Services;
 using Entities.Users;
-using Microsoft.Extensions.Configuration;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
 
 namespace Busines.Users
