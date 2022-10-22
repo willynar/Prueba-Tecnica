@@ -31,9 +31,6 @@ builder.Services.AddDbContext<PruebaSDContext>(options =>
 {
     options.UseSqlServer(Configuration.GetConnectionString("serverconnectionsixdegreesit"));
 });
-//builder.Services.AddDbContext<EVT_InventariosContext>(options =>
-//                 options.UseSqlServer(Configuration.GetConnectionString("serverConnectionInventario")), ServiceLifetime.Transient);
-
 
 //Se agrega validacion de json web token
 //builder.Services.AddAuthentication()
